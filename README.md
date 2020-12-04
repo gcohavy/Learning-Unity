@@ -1,3 +1,3 @@
 # Learning-Unity
 
-This is a simple project utilized to understand the Unity UI. 
+This is a number of projects created as a way of getting comfortable working in Unity3D
